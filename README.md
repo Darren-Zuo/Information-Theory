@@ -1,6 +1,6 @@
 # Information-Theory
 notes and textbooks for information theory
 
-# reference books:
+# Reference books:
 - Information Theory and Reliable Communication --Robert Gallager
 - Elements of Information Theory --Thomas Cover
